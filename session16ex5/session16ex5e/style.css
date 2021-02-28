@@ -1,0 +1,12 @@
+
+ header, nav, article, aside, footer {
+	
+	padding: 20px 0;
+	border: 2px solid green;
+	
+	background-color: #eb348c;
+/*	margin:0;  */
+		text-align: center;
+	box-sizing: border-box;
+	
+}

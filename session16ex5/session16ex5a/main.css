@@ -1,0 +1,60 @@
+
+
+html, body, div {
+	
+	box-sizing: border-box;
+	
+}
+
+
+body {
+	
+	display: flex;
+	flex-flow: row wrap;
+	
+	width: 100%;
+
+
+	padding: 0;
+/*	border: 5px solid green; */
+	
+	margin: 0 auto;
+	
+	
+}
+
+
+div {
+	
+	
+	
+}
+
+
+.a, .b, .c, .d, .e, .f {
+	
+	
+	width: 100%;
+	
+	display: right;
+	min-height: 25px;
+	
+	
+}
+
+
+a {
+
+			width: 10px;
+
+	
+	
+}
+
+li {
+	
+	display: inline-block:
+	
+	
+}
+
